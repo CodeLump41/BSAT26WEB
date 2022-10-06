@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+#app {
+    width: 100vw;
+    height: 100vh;
+}
+
+.gridcont {
+    display: grid;
+    grid-template-areas:
+        "header header header"
+        "menu  title img"
+        "menu  body body"
+        "menu  body body";
+}
+
