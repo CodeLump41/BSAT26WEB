@@ -14,8 +14,8 @@ export default{
     <div class="gront"> 
 
     <div id="menu">
-    <menu_item onClick="page = 'home'">Home</menu_item>
-    <menu_item onClick"page = 'img'">images</page_bar> 
+    <menu_item message = "wow very nice"></menu_item>
+ 
     </div>
 
 
