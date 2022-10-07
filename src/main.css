@@ -18,3 +18,19 @@
         "menu  body body";
 }
 
+#menu{
+    grid-area: menu;
+    display: flex;
+    align-items: center;
+}
+
+/* NOTE: ALL COLORS ARE FOR TESTING PURPOUSES AND ARE NOT FINAL */
+
+#menu>div{
+    background-color: green;
+    color: oldlace;
+}
+
+#menu>div:hover{
+    background-color: yellowgreen;
+}
