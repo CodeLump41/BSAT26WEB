@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     border: 0;
     padding: 0;
@@ -26,11 +26,11 @@
 
 /* NOTE: ALL COLORS ARE FOR TESTING PURPOUSES AND ARE NOT FINAL */
 
-#menu>div{
+/* #menu>div{
     background-color: green;
     color: oldlace;
 }
 
 #menu>div:hover{
     background-color: yellowgreen;
-}
+} */ 
