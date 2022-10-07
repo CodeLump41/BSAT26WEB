@@ -26,11 +26,11 @@
 
 /* NOTE: ALL COLORS ARE FOR TESTING PURPOUSES AND ARE NOT FINAL */
 
-#menu>div{
+#menu>*{
     background-color: green;
     color: oldlace;
 }
 
-#menu>div:hover{
+#menu>*:hover{
     background-color: yellowgreen;
 }

@@ -1,5 +1,5 @@
 import { createApp } from "vue";
-import page_bar from "./comp/page_bar";
+import menu_item from "./comp/menu_item";
 
 //Todays Date: 10/7/22
 
@@ -13,8 +13,8 @@ const app = createApp({
     <div class="gront"> 
 
     <div id="menu">
-    <page_bar onClick="page = 'home'">Home</page_bar>
-    <page_bar onClick"page = 'img'">images</page_bar> 
+    <menu_item onClick="page = 'home'">Home</menu_item>
+    <menu_item onClick"page = 'img'">images</menu_item> 
     </div>
 
 
