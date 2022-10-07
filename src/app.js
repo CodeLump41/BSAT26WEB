@@ -1,5 +1,5 @@
 
-import menu_item from "./comp/menu_item.js";
+import menuItem from "./comp/menuItem.js";
 
 //Todays Date: 10/7/22
 
@@ -14,7 +14,7 @@ export default{
     <div class="gront"> 
 
     <div id="menu">
-    <menu_item message = "wow very nice"></menu_item>
+    <menuItem message = "wow very nice"></menuItem>
  
     </div>
 
