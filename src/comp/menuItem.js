@@ -1,5 +1,5 @@
 export default {
-   props:["message"],
-    template: `<div>{{message}}</div>` 
+   
+    template: `<div>rat part 2</div>` 
 }
 

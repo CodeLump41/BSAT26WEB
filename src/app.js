@@ -5,16 +5,12 @@ import menuItem from "./comp/menuItem.js";
 
 
 export default{
-    Data() {
-        return {page: "home"}
-    },
-
     template: `
     
     <div class="gront"> 
 
     <div id="menu">
-    <menuItem message = "wow very nice"></menuItem>
+    <menuItem ></menuItem>
  
     </div>
 
