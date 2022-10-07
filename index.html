@@ -23,8 +23,15 @@
     <div id="app"></div>
 </body>
 
-<script type="module" src="./src/app.js">
+<script type="module">
+    import {createApp} from "vue"
+    import app from "./src/app.js"
+
+    createApp(app).mount("#app")
 
 </script>
+
+
+
 
 </html>
