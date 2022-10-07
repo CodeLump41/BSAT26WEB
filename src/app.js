@@ -5,9 +5,7 @@ import { createApp } from "vue";
 
 
 const app = createApp({
-    Data(){
-        return {page: "home"}
-    },
+
     template: `
     
    <p>DEBUGGING</p>  
