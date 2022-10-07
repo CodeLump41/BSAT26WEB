@@ -9,16 +9,7 @@ const app = createApp({
         return {page: "home"}
     },
     template: `
-    
-    <div class="gront"> 
-
-    <div id="menu">
-    <menu_item onClick="page = 'home'">Home</menu_item>
-    <menu_item onClick"page = 'img'">images</menu_item> 
-    </div>
-
-
-    </div>  
+        <div>WHAT IS HAPPENING</div> 
     `
 });
 
