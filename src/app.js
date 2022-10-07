@@ -1,5 +1,5 @@
 
-import menu_item from "./comp/menu_item";
+import menuI from "./comp/menu_item.js";
 
 //Todays Date: 10/7/22
 
