@@ -1,1 +1,3 @@
-alert("AAAAAAAAAA")
+import {createApp} from "vue";
+
+alert(createApp({}));
