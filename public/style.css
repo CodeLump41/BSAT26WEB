@@ -1,0 +1,13 @@
+#center{
+  display: flex;
+  align-items: center;
+  align-self: center;
+  
+  img{
+    filter: blur(200px);
+  }
+}
+
+#content{
+  background-color: #11111111
+}
